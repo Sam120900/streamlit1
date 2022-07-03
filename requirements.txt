@@ -1,3 +1,2 @@
 numpy==1.22.3
-pickle
 streamlit==1.10.0
